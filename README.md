@@ -3,3 +3,7 @@
 
 ## 显示成功信息
 [FcStatusBarHUD showSuccess:@"加载成功"];
+
+
+## 显示失败信息
+[FcStatusBarHUD showError:@"加载失败"];
